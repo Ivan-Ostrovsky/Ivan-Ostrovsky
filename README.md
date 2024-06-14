@@ -1,4 +1,4 @@
-Ivan Ostrovsky
+<h3> Ivan Ostrovsky </h3>
 
 Back-end Developer (Python)
 
